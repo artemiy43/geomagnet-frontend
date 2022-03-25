@@ -1,0 +1,26 @@
+@keyframes rotate { from { transform: rotate(0deg) } to { transform: rotate(360deg) } }
+
+.goos {
+    animation: rotate 20s linear;
+    width: 100px; 
+    height: 100px;  
+    position: absolute; 
+    left: 0px; 
+    top:20px;
+    background: red;
+    border-top: 4px dotted blue;
+    /* transform: rotate(45deg); */
+}
+
+.gooss {
+    /* animation: rotate 6s linear; */
+    width: 100px; 
+    height: 100px;  
+    position: absolute; 
+    
+    background: red;
+    border-top: 4px dotted blue;
+    transform: rotate(45deg);
+    left: 200px; 
+    top:30px;
+}

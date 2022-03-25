@@ -1,0 +1,6 @@
+.menu__span-coordinates {
+    margin: 0;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    text-align: center;
+}

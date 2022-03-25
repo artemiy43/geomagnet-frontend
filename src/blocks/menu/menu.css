@@ -1,0 +1,22 @@
+.menu {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #002137;
+    z-index: 3;
+    width: 400px;
+    height: 860px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.menu-unable {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #002137;
+    z-index: 3;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 10px;
+}
